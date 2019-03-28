@@ -37,7 +37,9 @@ specified in output of the above command to view it.
 ## Screenshots :
 
 ![yo](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_1.png)
+
 ![woooho](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_2.png)
+
 ![woooho](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_3.png)
 
 *Note that graphs haven't been given for the employees and customers
