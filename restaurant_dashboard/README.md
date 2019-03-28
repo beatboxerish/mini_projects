@@ -13,11 +13,32 @@ mentioned software and actually placing orders. It was fun and a
 little irritating but I wasn't able to find raw POS data anywhere on 
 the net and thus, this seemed like a good idea.
 
+## Usage :
+
+To check this app out you must `cd` into the app folder and then 
+enter `python routes.py`
+
+This will start the dashboard and you must now go to the url 
+specified in output of the above command to view it.
+
+## Files/Folders :
+
+1. data - Contains both the raw and the clean data
+2. app - Contains the main plotting functions, the templates and
+ related files along with the main file that runs the dashboard
+3. imgs - Contains the screenshots used below
+
 ## Requirements :
 
 1. flask
 2. plotly
 3. pandas
 
+## Screenshots :
 
 
+*Note that graphs haven't been given for the employees and customers
+section as the goal was to create a template or layout and show how 
+graphs could be used, which have been shown in the food tab. One 
+could replace the text in the employees and customers sections by 
+the plots as is done in the foods section.*
