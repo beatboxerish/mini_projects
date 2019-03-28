@@ -36,11 +36,17 @@ specified in output of the above command to view it.
 
 ## Screenshots :
 
-1. ![yo](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_1.png)
+![yo](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_1.png)
 
-2. ![woooho](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_2.png)
+The above shows the index page where 2 of the charts have been shown.
 
-3. ![woooho](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_3.png)
+![woooho](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_2.png)
+
+The above are the other two charts on the index page.
+
+![woooho](https://github.com/beatboxerish/mini_projects/blob/master/restaurant_dashboard/imgs/dashboard_3.png)
+
+The above is the employees page.
 
 *Note that graphs haven't been given for the employees and customers
 section as the goal was to create a template or layout and show how 
