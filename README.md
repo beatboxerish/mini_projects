@@ -8,6 +8,6 @@ Examples would be using keras on inbuilt datasets or basic statistical tests
 
 **Following are the projects in this repository:** 
 
-1. Restaurant Dashboard: A simple dashboard made using python, flask and 
-bootstrap. 
+1. restaurant_dashboard: A simple dashboard made using python, flask and 
+bootstrap along with some plots and a basic layout.
  
